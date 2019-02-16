@@ -1,0 +1,33 @@
+{
+  "name": "fastify-preact-htm-boilerplate",
+  "version": "1.0.0",
+  "description": "Quickly bootstrap your next web app with [Fastify](https://www.fastify.io), [Preact](https://preactjs.com/) and [htm](https://github.com/developit/htm) (great stack for quick web prototypes).",
+  "main": "src/server/server.js",
+  "scripts": {
+    "start": "fastify start --log-level info src/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmammino/fastify-preact-htm-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmammino/fastify-preact-htm-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lmammino/fastify-preact-htm-boilerplate#readme",
+  "dependencies": {
+    "fastify": "^2.0.0-rc.6",
+    "fastify-cli": "^0.27.2",
+    "fastify-static": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
