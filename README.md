@@ -53,11 +53,11 @@ Now enjoy your app at [localhost:3000](http://localhost:3000).
 
 ## What's missing? 🤔
 
-This boilerplate does not suggest any way to compile your assets in a more production ready way. Also it doesn't make any frontend routing assumption (no library provided), nor it provides server side rendering (which you might want if you care about SEO).
+This boilerplate does not suggest any way to **compile your assets** in a more production ready way. Also it doesn't make any **frontend routing** assumption (no library provided), nor it provides **server side rendering** (which you might want if you care about SEO).
 
-Moreover, there's no default way to persist data in your backed. Picking the right database for your needs is left up to you.
+Moreover, there's no default way to **persist data** in your backed. Picking the right database for your needs is left up to you.
 
-These are some of the aspects you have to generally keep in mind while building an application for production and this boilerplate leaves these concerns to you.
+These are only some of the aspects you have to generally keep in mind while building an application for production and this boilerplate leaves these concerns to you.
 
 ## Contributing 🤙
 
