@@ -36,7 +36,7 @@ To start the app, just run:
 npm start
 ```
 
-The app will be available at [localhost:300](http://localhost:300).
+The app will be available at [localhost:3000](http://localhost:3000).
 
 ## Ready to be distributed (with Docker) 🐳
 
@@ -49,7 +49,7 @@ docker build -t my-new-project .
 docker run -it -p 3000:3000 my-new-project
 ```
 
-Now enjoy your app at [localhost:300](http://localhost:300).
+Now enjoy your app at [localhost:3000](http://localhost:3000).
 
 ## What's missing? 🤔
 
