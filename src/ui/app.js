@@ -32,8 +32,8 @@ class App extends Component {
             <div>
               👩‍💻 Have fun changing the code from this boilerplate:
               <ul>
-                <li>UI code avaialble at <code>/src/ui</code></li>
-                <li>Server-side code avaialble at <code>/src/server</code></li>
+                <li>UI code available at <code>/src/ui</code></li>
+                <li>Server-side code available at <code>/src/server</code></li>
               </ul>
             </div>
           </div>
