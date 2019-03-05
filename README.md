@@ -10,9 +10,10 @@ In such cases, I personally don't like to invest a lot of time configuring build
 
 Since my favorite technologies to develop web apps are Fastify (API) and React (UI), I found this stack to work quite well as a compromise between familiarity, ease of development and possibility to improve over in case I want to convert the project to an actual production-ready app.
 
-I am currently writing an article that goes into more details.
+More details available in my blog article [Fastify and Preact for quick web app prototyping
+](https://loige.co/fastify-and-preact-for-quick-web-app-prototyping)
 
-Link coming soon at [loige.co](https://loige.co).
+[![Fastify and Preact for quick web app prototyping](https://loige.co/static/fastify-and-preact-for-quick-web-app-prototyping-fb-0e2a91fd4aeafdbd38532769ca069c85.png)](https://loige.co/fastify-and-preact-for-quick-web-app-prototyping)
 
 ## Getting started 👩‍💻
 
