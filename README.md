@@ -46,8 +46,8 @@ The project contains already a `Dockerfile` that allows you to package and run t
 Run the following commands to run the app in a container:
 
 ```bash
-docker build -t my-new-project .
-docker run -it -p 3000:3000 my-new-project
+docker build -t my-new-project:my-tag .
+docker run --init -it -p 3000:3000 my-new-project:my-tag
 ```
 
 Now enjoy your app at [localhost:3000](http://localhost:3000).
